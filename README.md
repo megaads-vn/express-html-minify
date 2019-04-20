@@ -1,5 +1,4 @@
-##express-html-minify
-
+##Express-HTML-minify
 
 A html-minifier middleware for expressjs
 
