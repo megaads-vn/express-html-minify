@@ -12,7 +12,8 @@ var defaultConfig = {
   removeComments: true,
   removeCommentsFromCDATA: true,
   removeCDATASectionsFromCDATA: true,
-  collapseWhitespace: true
+  collapseWhitespace: true,
+  minifyCSS: true
 };
 
 /*
